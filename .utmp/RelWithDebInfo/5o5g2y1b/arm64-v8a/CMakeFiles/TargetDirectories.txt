@@ -1,0 +1,5 @@
+E:/unity/UAS-ARVR/.utmp/RelWithDebInfo/5o5g2y1b/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/unity/UAS-ARVR/.utmp/RelWithDebInfo/5o5g2y1b/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/unity/UAS-ARVR/.utmp/RelWithDebInfo/5o5g2y1b/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/unity/UAS-ARVR/.utmp/RelWithDebInfo/5o5g2y1b/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/unity/UAS-ARVR/.utmp/RelWithDebInfo/5o5g2y1b/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
