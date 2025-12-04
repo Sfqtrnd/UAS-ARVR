@@ -92,7 +92,7 @@ PrefabInstance:
       addedObject: {fileID: 1712376905182941075}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: dbfa10c62121f1d40ab73a09bd522042, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1801588570396399215}
+      addedObject: {fileID: 944858030293971141}
   m_SourcePrefab: {fileID: 100100000, guid: dbfa10c62121f1d40ab73a09bd522042, type: 3}
 --- !u!1 &282647873411268212 stripped
 GameObject:
@@ -131,7 +131,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: b6eae44700a85c34298fc5bcae078c02, type: 3}
+  m_Resource: {fileID: 8300000, guid: 670f55599bcf8ab4aa9be3e2c231c573, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -287,7 +287,7 @@ MonoBehaviour:
   m_PointerBehavior: 0
   m_CursorLockBehavior: 0
   m_ScrollDeltaPerTick: 6
---- !u!114 &1801588570396399215
+--- !u!114 &944858030293971141
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -296,6 +296,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 282647873411268212}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 02c6e507c36da804190874ef5f53c9d4, type: 3}
+  m_Script: {fileID: 11500000, guid: 212d7a22e993df745a9baec911f49f89, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ChickenTouch
+  m_EditorClassIdentifier: Assembly-CSharp::TouchAnimal

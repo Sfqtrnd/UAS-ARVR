@@ -957,7 +957,9 @@
           },
           {
             "name": "MeshCollider",
-            "scenes": [],
+            "scenes": [
+              "Assets/_Recovery/0 (1).unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -965,6 +967,14 @@
             "name": "PhysicsManager",
             "scenes": [],
             "dependencyType": 1,
+            "icon": null
+          },
+          {
+            "name": "PhysicsMaterial",
+            "scenes": [
+              "Assets/_Recovery/0 (1).unity"
+            ],
+            "dependencyType": 0,
             "icon": null
           },
           {

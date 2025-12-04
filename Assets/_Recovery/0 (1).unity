@@ -660,7 +660,7 @@ MonoBehaviour:
       m_Calls: []
   m_SerializedLibrary: {fileID: 11400000, guid: 5a8fe3b4c206fca4083af35aa5eb8a20, type: 2}
   m_MaxNumberOfMovingImages: 4
-  m_TrackedImagePrefab: {fileID: 282647873411268212, guid: c07260265ac4dd34485d50cdb1ec8b9f, type: 3}
+  m_TrackedImagePrefab: {fileID: 3088837428700137475, guid: 752b9ef900cc29e488bdfae94c00044b, type: 3}
 --- !u!114 &1964602099
 MonoBehaviour:
   m_ObjectHideFlags: 0
